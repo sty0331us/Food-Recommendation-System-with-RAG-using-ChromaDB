@@ -1,1 +1,1 @@
-# Food-Recommendation-System-with-RAG-ChromaDB-
+Food-Recommendation-System-with-RAG-using-ChromaDB
